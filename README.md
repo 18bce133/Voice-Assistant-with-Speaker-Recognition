@@ -13,45 +13,45 @@ Description of the project:
 
 #Acts as voice assistant which can perform the following FEATURES:
 
-_____________________________________________________________________________________________________________________________________________________
-		                   FEATURE				          |		         VOICE COMMANDS
-________________________________________________|____________________________________________________________________________________________________
-									                              |
-1) Wikipedia search							                |	Wikipedia "......."         e.g. Wikipedia Nirma university
-   								                   	          |
-2) open Youtube							                    |	Open "Youtube"  
-                                                |
-3) Search Youtube                               |       search youtube "......."    e.g. search youtube nirma university
- 									                              |
-4) open Google							                    |	Open "Google"  
- 	                                              |
-5) search google                                |       search google "....."       e.g. search google nirma university
-                                                |
-6)Open any website as mentioned by user         |	Open "........."            e.g. open facebook.com
-									                              |
-7) Lock the computer							              |	Lock
-									                              |
-8) Can show news							                  |	Show News
-                                                |
-9) Test speed of internet connection	          |	Test Speed of Internet
-									                              |
-10) Check internet connection(connected or not) |	Check Internet Connection
-									                              |
-11) Can show current location of the user       |	Show Location
-									                              |
-12) shows RAM Usage							                |	Memory Usage
-									                              |
-13) Speaker recognition(RECOGNIZE,ADD USER)     |	(a)RECOGNIZE: To recognize the existing user(if user is not there 'user not recognized')
-									                              |	(b)Add User: To add new user 
-                                                |
-14) Ask any general knowledge question          |       e.g. what is capital of India
-                                                |
-15) Ask any mathematical calculation question   |       e.g. what is 5+6     e.g. what are roots of x^2 - 2x + 1. 
-                                                |
-16) Weather condition of any place              |       e.g. What is temperature in America
-                                                |
-17) General statements                          |       e.g. How are you ?
-________________________________________________|____________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
+		                   FEATURE	          |		         VOICE COMMANDS
+__________________________________________________________|____________________________________________________________________________
+							  |
+1) Wikipedia search					  |	Wikipedia "......."         e.g. Wikipedia Nirma university
+   				        	          |
+2) open Youtube			                          |	Open "Youtube"  
+                                                          |
+3) Search Youtube                                         |     Search youtube "......."    e.g. search youtube nirma university
+ 							  |
+4) open Google						  |	Open "Google"  
+ 	                                                  |
+5) search google                                          |     Search google "....."       e.g. search google nirma university
+                                                          |
+6) Open any website as mentioned by user                  |	Open "........."            e.g. open facebook.com
+							  |
+7) Lock the computer					  |	Lock
+		                                          |
+8) Can show news			                  |	Show News
+                                                          |
+9) Test speed of internet connection	                  |	Test Speed of Internet
+					                  |
+10) Check internet connection(connected or not) 	  |	Check Internet Connection
+				                          |
+11) Can show current location of the user	          |	Show Location
+			                                  |
+12) Shows RAM Usage			                  |	Memory Usage
+					                  |
+13) Speaker recognition(RECOGNIZE,ADD USER)               |	(a)RECOGNIZE: To recognize the existing user(if user is not there 'user                                                           |                   not recognized')
+						          |	(b)Add User: To add new user 
+                                               		  |
+14) Ask any general knowledge question          	  |       E.g. What is capital of India
+                                                	  |
+15) Ask any mathematical calculation question   	  |       e.g. what is 5+6     e.g. what are roots of x^2 - 2x + 1. 
+                                                	  |
+16) Weather condition of any place              	  |       e.g. What is temperature in America
+                                                	  |
+17) General statements                          	  |       e.g. How are you ?
+__________________________________________________________|______________________________________________________________________
 
 
 
