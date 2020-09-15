@@ -4,8 +4,7 @@ PSC project
 Topic: Voice Assistant with Speaker Recognition
 
 Group Members:	     NIHAR THAKKAR 18BCE133
-	             MEET MAVANI 18BCE118
-	             KHUSHAL ASAWA 18BCE094
+	             
 
 Details:
 
